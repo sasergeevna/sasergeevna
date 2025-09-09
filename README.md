@@ -13,6 +13,7 @@
 | :--------: | :-------: |
 |[SQL Работа с тренировочной базой данных по продажам книжного интернет магазина](https://github.com/sasergeevna/SQL_book_store_project.github.io) |<img src="https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql&logoColor=white"/>|
 |[SQL Работа с тренировочной базой данных по доставке продуктов](https://github.com/sasergeevna/SQL_products_delivery_project.github.io) |<img src="https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql&logoColor=white"/>|
+|[Анализ факторов выживаемости на Титанике](https://github.com/sasergeevna/python_projects.github.io) |<img src="https://img.shields.io/badge/MatPlotlib-black?style=flat-square"/><img src="https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas&logoColor=orange"/><img src="https://img.shields.io/badge/Plotly-black?style=flat-square&logo=plotly&logoColor=orange"/><img src="https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy&logoColor=orange"/>|
 
 
 
